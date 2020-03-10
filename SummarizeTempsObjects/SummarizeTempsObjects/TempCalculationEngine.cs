@@ -40,6 +40,7 @@ namespace SummarizeTempsObjects
         public int NumberOfTemperatures()
         {
             // add logic to return the number of temparature readings
+            
             return 0; // <-- Replace this with the number
         }
     }
